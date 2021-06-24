@@ -1,7 +1,5 @@
-👋 &nbsp;Hi, I’m @jiglay (also know as Fernanda, but few people call me that)<br>
-👀 &nbsp;I’m interested in front-end development<br>
-💻 &nbsp;I’m currently learning javascript<br>
-📍 &nbsp;based on Rio de Janeiro, RJ<br>
+👋 &nbsp;Hi, I’m @jiglay (also know as Fernanda, but few people call me that). I’m interested in front-end development and currently learning JavaScript.<br>
+📍 &nbsp;Based on Rio de Janeiro, RJ<br>
 📫 &nbsp;jiglay@gmail.com<br>
 
 🛠 &nbsp;Hard Skills<br>
