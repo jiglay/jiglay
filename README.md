@@ -1,4 +1,4 @@
-👋 &nbsp;Hi, I’m @jiglay (also know as Fernanda, but few people call me that). I’m interested in front-end development and currently learning JavaScript.<br>
+👋 &nbsp;Hi, I’m @jiglay (also know as Fernanda, but few people call me that). I started programming in JavaScript, HTML and CSS to learn more about front-end development, but I changed my carrer into data enginner and now I'm looking to work with chatbots and voicebots.<br>
 📍 &nbsp;Based on Rio de Janeiro, RJ<br>
 📫 &nbsp;jiglay@gmail.com<br>
 
